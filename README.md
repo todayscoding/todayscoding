@@ -1,4 +1,5 @@
 <a href="https://blog.naver.com/wlsgustj123" target="_blank"><img src="https://img.shields.io/badge/blog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://www.instagram.com/jinhyeonseo0831" target="_blank"><img src="https://img.shields.io/badge/jinhyeonseo0831-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 ### Hi I'm Hyeonseo Jin👋
 
 - 🔭 I’m currently working on Chatting App
