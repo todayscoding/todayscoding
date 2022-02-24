@@ -1,4 +1,4 @@
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=&logoColor=#03C75A"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-배경색?style=for-the-badge&logo=&logoColor=#03C75A"/></a>
 ### Hi I'm Hyeonseo Jin👋
 
 - 🔭 I’m currently working on Chatting App
@@ -9,3 +9,4 @@
 - 📫 How to reach me: [Instagram - @jinhyeonseo0831](https://www.instagram.com/jinhyeonseo0831)/[NaverBlog - @todayscoding](https://m.blog.naver.com/wlsgustj123)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I code everyday in republic of korea army.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=todayscoding&show_icons=true&theme=radical)
