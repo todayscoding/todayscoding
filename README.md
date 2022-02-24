@@ -1,3 +1,4 @@
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=&logoColor=#03C75A"/></a>
 ### Hi I'm Hyeonseo Jin👋
 
 - 🔭 I’m currently working on Chatting App
@@ -5,7 +6,6 @@
 - 👯 I’m looking to collaborate on Goorm Ide
 - 🤔 I’m looking for help with Goorm Ide
 - 💬 Ask me about Javascript
-- 📫 How to reach me: [Instagram - @jinhyeonseo0831](https://www.instagram.com/jinhyeonseo0831) [NaverBlog - @todayscoding](https://m.blog.naver.com/wlsgustj123)
+- 📫 How to reach me: [Instagram - @jinhyeonseo0831](https://www.instagram.com/jinhyeonseo0831)/[NaverBlog - @todayscoding](https://m.blog.naver.com/wlsgustj123)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I code everyday in republic of korea army.
-
